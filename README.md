@@ -1,2 +1,2 @@
 # SeleniumWD
-Selenium Webdriver tests using TestNG
+Selenium Webdriver tests using: TestNG, JUnit, Conductor.
