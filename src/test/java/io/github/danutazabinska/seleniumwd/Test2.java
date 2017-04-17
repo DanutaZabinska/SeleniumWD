@@ -1,4 +1,4 @@
-package danutazabinska.seleniumwd;
+package io.github.danutazabinska.seleniumwd;
 
 
 
